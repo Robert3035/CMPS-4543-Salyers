@@ -188,9 +188,9 @@ completed_assignments/
         │   ├── ✅ 00-Loading_and_Inspecting.ipynb
         │   └── ✅ 01-Measuring_the_Problem.ipynb
         ├── 01-Douglas_Peucker/
-        │   ├── ❌ 00-The_Algorithm.ipynb
-        │   ├── ❌ 01-Implementation.ipynb
-        │   └── ❌ 02-Epsilon_and_Tradeoffs.ipynb
+        │   ├── ✅ 00-The_Algorithm.ipynb
+        │   ├── ✅ 01-Implementation.ipynb
+        │   └── ✅ 02-Epsilon_and_Tradeoffs.ipynb
         ├── 02-LOD_Generation/
         │   ├── ❌ 00-Designing_the_Pipeline.ipynb
         │   ├── ❌ 01-Writing_the_LOD_Files.ipynb
@@ -476,6 +476,11 @@ completed_assignments/
     │   │   ├── 00-Loading_and_Inspecting.ipynb
     │   │   ├── 01-Measuring_the_Problem.ipynb
     │   │   └── README.md
+    │   ├── 01-Douglas_Peucker
+    │   │   ├── 00-The_Algorithm.ipynb
+    │   │   ├── 01-Implementation.ipynb
+    │   │   ├── 02-Epsilon_and_Tradeoffs.ipynb
+    │   │   └── README.md
     │   └── README.md
     ├── data
     │   └── ne_10m_railroads.geojson
@@ -498,10 +503,10 @@ completed_assignments/
     Goal: complete all 60 notebooks
 
   03-Data_Manager
-    2/21  [██░░░░░░░░░░░░░░░░░░░]
+    5/21  [█████░░░░░░░░░░░░░░░░]
     Goal: complete all 21 notebooks
 
-  Total: 36/130 notebooks found
+  Total: 39/130 notebooks found
 
 
 ============================================================
@@ -511,5 +516,4 @@ completed_assignments/
 ============================================================
 
   Score: __ / 10
-  Still working
-
+still working
