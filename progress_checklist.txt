@@ -192,9 +192,9 @@ completed_assignments/
         │   ├── ✅ 01-Implementation.ipynb
         │   └── ✅ 02-Epsilon_and_Tradeoffs.ipynb
         ├── 02-LOD_Generation/
-        │   ├── ❌ 00-Designing_the_Pipeline.ipynb
-        │   ├── ❌ 01-Writing_the_LOD_Files.ipynb
-        │   └── ❌ 02-Comparing_the_Levels.ipynb
+        │   ├── ✅ 00-Designing_the_Pipeline.ipynb
+        │   ├── ✅ 01-Writing_the_LOD_Files.ipynb
+        │   └── ✅ 02-Comparing_the_Levels.ipynb
         ├── 03-Bounding_Box_Culling/
         │   ├── ❌ 00-Bounding_Boxes.ipynb
         │   ├── ❌ 01-Intersection_Test.ipynb
@@ -214,277 +214,6 @@ completed_assignments/
             ├── ❌ 01-Using_Tippecanoe.ipynb
             └── ❌ 02-The_Comparison.ipynb
 
-============================================================
-  YOUR completed_assignments/ TREE
-============================================================
-
-completed_assignments/
-├── 01-Python_Foundations
-│   ├── 01-Working_with_Data_Basic
-│   │   ├── Assessments
-│   │   │   ├── 02a-mini_quiz.ipynb
-│   │   │   ├── meta.yaml
-│   │   │   └── README.md
-│   │   ├── Lessons
-│   │   │   ├── 01-Lists
-│   │   │   │   ├── 01-Lists.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   ├── 02-Tuples
-│   │   │   │   ├── 02-Tuples.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   ├── 03-Data_Types_and_Arithmetic
-│   │   │   │   ├── 03-Data_Types_and_Arithmetic.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   └── 03-Dictionaries
-│   │   │       ├── 03-Dictionaries.ipynb
-│   │   │       ├── _autogen.md
-│   │   │       ├── _header.md
-│   │   │       ├── meta.yaml
-│   │   │       └── README.md
-│   │   ├── Resources
-│   │   │   └── 00-glossary.md
-│   │   ├── _autogen.md
-│   │   └── _header.md
-│   ├── 02-Scalar_Types_and_Control_Flow
-│   │   ├── 01-Scalar_Types
-│   │   │   ├── 01-Scalar_Types.ipynb
-│   │   │   ├── _autogen.md
-│   │   │   ├── _header.md
-│   │   │   ├── meta.yaml
-│   │   │   └── README.md
-│   │   ├── Assessments
-│   │   │   ├── _autogen.md
-│   │   │   ├── _header.md
-│   │   │   ├── meta.yaml
-│   │   │   ├── mini_quiz.ipynb
-│   │   │   ├── mini_quiz.md
-│   │   │   ├── README.md
-│   │   │   └── worksheet.md
-│   │   ├── Lessons
-│   │   │   ├── 02-Control_Flow
-│   │   │   │   ├── 02-Control_Flow.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   └── meta.yaml
-│   │   ├── Resources
-│   │   │   ├── glossary.md
-│   │   │   └── glossary.pdf
-│   │   ├── _autogen.md
-│   │   ├── _header.md
-│   │   └── README.md
-│   ├── 03-Loops_and_Iteration
-│   │   ├── Assessments
-│   │   │   ├── _autogen.md
-│   │   │   ├── _header.md
-│   │   │   ├── meta.yaml
-│   │   │   ├── mini_quiz.ipynb
-│   │   │   ├── mini_quiz.md
-│   │   │   └── README.md
-│   │   ├── Lessons
-│   │   │   ├── 01-For_Loops
-│   │   │   │   ├── 01-For_Loops.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   ├── 02-While_loops
-│   │   │   │   ├── 02-While_Loops.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   └── 03-File_Loops_and_With
-│   │   │       ├── 03-File_Loops_and_With.ipynb
-│   │   │       ├── _autogen.md
-│   │   │       ├── _header.md
-│   │   │       ├── meta.yaml
-│   │   │       ├── README.md
-│   │   │       └── sample.txt
-│   │   └── Resources
-│   │       ├── _autogen.md
-│   │       ├── _header.md
-│   │       ├── glossary.md
-│   │       ├── glossary.pdf
-│   │       ├── README.md
-│   │       └── worksheet.md
-│   ├── 04-Foundations
-│   │   ├── Assessments
-│   │   │   ├── 01-Foundations_Quiz.ipynb
-│   │   │   ├── 02-mini_quiz.ipynb
-│   │   │   ├── _autogen.md
-│   │   │   ├── _header.md
-│   │   │   ├── hello.txt
-│   │   │   ├── meta.yaml
-│   │   │   ├── README.md
-│   │   │   └── students.csv
-│   │   ├── Lessons
-│   │   │   ├── 01-Magic_Commands
-│   │   │   │   ├── 01-magic_commands.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   ├── 02-Markdown_and_Formatting
-│   │   │   │   ├── 02-Markdown_and_Formatting.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   ├── 03-Work_With_Files
-│   │   │   │   ├── 03-Work_With_Files.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── data.json
-│   │   │   │   ├── example.txt
-│   │   │   │   ├── me.txt
-│   │   │   │   ├── meta.yaml
-│   │   │   │   ├── README.md
-│   │   │   │   ├── scores.csv
-│   │   │   │   └── stuff.csv
-│   │   │   ├── 04-Data_Input_Output
-│   │   │   │   ├── 04-Data_Input_Output.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── cars.csv
-│   │   │   │   ├── cars_copy.csv
-│   │   │   │   ├── meta.yaml
-│   │   │   │   ├── README.md
-│   │   │   │   ├── students.csv
-│   │   │   │   └── students_copy.csv
-│   │   │   ├── 05-Plotting_Basics
-│   │   │   │   ├── 05-Plotting_Basics.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   ├── 06-Jupyter_Shortcuts_and_Productivity
-│   │   │   │   ├── 06-Jupyter_Shortcuts_and_Productivity.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── last10.py
-│   │   │   │   ├── meta.yaml
-│   │   │   │   ├── my_session.py
-│   │   │   │   └── README.md
-│   │   │   ├── 07-Using_Help_and_Docs
-│   │   │   │   ├── 07-Using_Help_and_Docs.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   └── 08-Timing_and_Performance
-│   │   │       ├── 08-Timing_and_Performance.ipynb
-│   │   │       ├── _autogen.md
-│   │   │       ├── _header.md
-│   │   │       ├── meta.yaml
-│   │   │       └── README.md
-│   │   ├── Resources
-│   │   │   ├── glossary.md
-│   │   │   └── glossary.pdf
-│   │   ├── _autogen.md
-│   │   ├── _header.md
-│   │   └── README.md
-│   ├── 05-Working_with_Data_Adv
-│   │   ├── Assessments
-│   │   │   ├── meta.yaml
-│   │   │   └── mini_quiz.ipynb
-│   │   ├── data
-│   │   │   ├── pokemon.csv
-│   │   │   ├── state_abbr.json
-│   │   │   ├── survey.csv
-│   │   │   ├── titanic.csv
-│   │   │   └── ufo.csv
-│   │   ├── Lessons
-│   │   │   ├── 01-Lists_Dicts_and_Tuples
-│   │   │   │   ├── 01-Lists_Dicts_and_Tuples.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   ├── 02-Pandas_Series_and_Dataframes
-│   │   │   │   ├── 02-Pandas_Series_and_Dataframes.ipynb
-│   │   │   │   ├── _autogen.md
-│   │   │   │   ├── _header.md
-│   │   │   │   ├── meta.yaml
-│   │   │   │   └── README.md
-│   │   │   ├── _autogen.md
-│   │   │   ├── _header.md
-│   │   │   ├── meta.yaml
-│   │   │   └── README.md
-│   │   └── Resources
-│   │       ├── _autogen.md
-│   │       ├── _header.md
-│   │       ├── glossary.md
-│   │       ├── glossary.pdf
-│   │       └── README.md
-│   ├── 06-Describing_and_Visualizing_Data
-│   │   ├── Assessments
-│   │   │   ├── meta.yaml
-│   │   │   └── mini_quiz.ipynb
-│   │   ├── Lessons
-│   │   │   └── 01-Types_of_Data
-│   │   │       ├── 01-Types_of_Data.ipynb
-│   │   │       ├── _autogen.md
-│   │   │       ├── _header.md
-│   │   │       ├── meta.yaml
-│   │   │       └── README.md
-│   │   ├── notebooks
-│   │   │   ├── _autogen.md
-│   │   │   ├── _header.md
-│   │   │   ├── meta.yaml
-│   │   │   └── README.md
-│   │   └── Resources
-│   │       ├── _autogen.md
-│   │       ├── _header.md
-│   │       ├── glossary.md
-│   │       ├── glossary.pdf
-│   │       └── README.md
-│   ├── _autogen.md
-│   ├── _header.md
-│   ├── hello.py
-│   └── README.md
-├── 02-Missile_Geometry_202
-│   └── _micro_lessons
-│       ├── 00-Paths
-│       │   ├── 00-Working_Directory.ipynb
-│       │   ├── 01-Relative_vs_Absolute.ipynb
-│       │   ├── 02-Data_Elsewhere.ipynb
-│       │   ├── 03-Find_Project_Root.ipynb
-│       │   └── README.md
-│       └── 01-JSON_GeoJSON
-│           ├── data
-│           │   ├── latex_colors.json
-│           │   ├── meteorites.geojson
-│           │   └── my_collection.geojson
-│           ├── 00-Reading_JSON.ipynb
-│           ├── 01-GeoJSON_Structure.ipynb
-│           ├── 02-Feature_Collections.ipynb
-│           └── README.md
-└── 03-Data_Manager
-    ├── _micro_lessons
-    │   ├── 00-Data_Exploration
-    │   │   ├── 00-Loading_and_Inspecting.ipynb
-    │   │   ├── 01-Measuring_the_Problem.ipynb
-    │   │   └── README.md
-    │   ├── 01-Douglas_Peucker
-    │   │   ├── 00-The_Algorithm.ipynb
-    │   │   ├── 01-Implementation.ipynb
-    │   │   ├── 02-Epsilon_and_Tradeoffs.ipynb
-    │   │   └── README.md
-    │   └── README.md
-    ├── data
-    │   └── ne_10m_railroads.geojson
-    └── README.md
 
 ============================================================
   SUMMARY
@@ -503,10 +232,10 @@ completed_assignments/
     Goal: complete all 60 notebooks
 
   03-Data_Manager
-    5/21  [█████░░░░░░░░░░░░░░░░]
+    8/21  [████████░░░░░░░░░░░░░]
     Goal: complete all 21 notebooks
 
-  Total: 39/130 notebooks found
+  Total: 42/130 notebooks found
 
 
 ============================================================
@@ -515,5 +244,7 @@ completed_assignments/
   Use a number from 0 to 10, where 10 = 100% complete.
 ============================================================
 
-  Score: __ / 10
-still working
+  Score: 7 / 10
+  All asignments pushed to completed_assignments have been fully completed, there was some work in others that wasn't worth pushing
+  I will continue pushing completed assignments from Data_Manager and Missile_Geometry_202
+
